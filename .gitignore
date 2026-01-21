@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+# *.pt  <-- Comentado para que el modelo suba a GitHub y Render lo encuentre
+best12.pt
